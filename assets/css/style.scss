@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
+.avatar {
+  border-radius: 100px;
+  float: left;
+  margin-right: 10px;
+}
